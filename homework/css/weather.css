@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    padding-left: 50px;
+    margin-left: 500px;
+    border-color: black;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+td{
+    text-align: center;
+}
+
+.mobile{
+    position: absolute;
+}
+.sun {
+top 20px;}
+a{
+    font-size: 24px;
+}
+img{
+
+}
