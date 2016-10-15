@@ -7,7 +7,12 @@ table,th,td {
     border: 2px solid #000;
 }
 
+blockquote{
+    position: relative;
+    bottom: 530px;
+    left:80px;
 
+}
 
 td {
     text-align: center;
@@ -15,9 +20,22 @@ td {
 }
 
 .mobile {
-   float: left;
-}
+position:relative;
+    bottom: 350px;
 
+}
+.title{
+    position: relative;
+bottom: 150px;
+
+
+}
+.sun{
+
+    position: relative;
+bottom: 655px;
+    left: 80px;
+}
 
 
 a {
