@@ -1,10 +1,13 @@
 table {
     border-collapse: collapse;
     border-color: #000;
+
 }
 
 table,th,td {
     border: 2px solid #000;
+
+
 }
 
 blockquote{
@@ -17,6 +20,7 @@ blockquote{
 td {
     text-align: center;
     font-size: 1em;
+
 }
 
 .mobile {
