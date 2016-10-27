@@ -1,4 +1,4 @@
-table {
+/*table {
     border-collapse: collapse;
     border-color: #000;
 
@@ -54,3 +54,74 @@ main p {
 div {
     text-align: center;
 }
+*/
+body {
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+text-align: center;
+
+}
+
+
+nav{
+
+    background-color: aqua;
+flex-grow: 1;
+
+}
+
+main{
+background-color: cornflowerblue;
+flex-grow: 5;
+
+}
+
+
+footer{
+    background-color: chartreuse;
+        flex-basis: 100%;
+    order: 10;
+}
+
+header{
+flex-basis: 100%;
+    background-color: blueviolet;
+}
+
+
+
+
+
+table{
+
+    display: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
