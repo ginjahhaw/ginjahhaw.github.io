@@ -9,33 +9,43 @@ text-align: center;
 table{display: none;
 
 }
+*{
+    background-color:darkblue;
+    color: antiquewhite;
+    font-family: cursive;
 
+
+}
+h1{font-size: 24px;
+}
+h2{font-size: 20px;}
+p{font-size: 18px;}
 nav{
 
-    background-color: aqua;
+
     flex: 1 25%;
 flex-basis: 60%;
 
 }
-#everything{
 
-}
 
 main{
-background-color: yellow;
+
 flex-direction: row;
+
 
 
 }
 aside{
-background-color: coral;
+border: 10px;
     flex-direction: row;
+margin-right: 250px;
 
 
 }
 
 footer{
-    background-color: red;
+
 
 }
 #wrapper{
@@ -45,7 +55,7 @@ footer{
 }
 header{
 flex-basis: 100%;
-    background-color: blueviolet;
+
 
 }
 .medium{
@@ -70,7 +80,7 @@ flex-basis: 100%;
     }
     table{
         display: inherit;
-        float: center;
+
         text-align: center;
     }
 }
@@ -87,7 +97,7 @@ flex-basis: 100%;
     }
     table {
         display: inherit;
-        float: center;
+
         text-align: center;
     }
     body{
