@@ -3,7 +3,7 @@ $(function() {
 });
 
 $(function() {
-    $("#page-header").load("header.html");
+    $("#myFooter").load("footer.html");
 });
 
 $(function() {
