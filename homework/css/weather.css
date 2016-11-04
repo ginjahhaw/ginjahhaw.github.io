@@ -85,7 +85,6 @@ flex-basis: 100%;
     }
 }
 
-@media screen and (min-width: 950px){
 
     .mobile, .medium{
         display:none;
