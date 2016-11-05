@@ -5,12 +5,16 @@ flex-direction: column;
 text-align: center;
 
 }
+.logo {
+    width: 15%;
+ height:25%
+}
 
 table{display: none;
 
 }
 *{
-    background-color:darkturquoise;
+    background-color:darkcyan;
     color: antiquewhite;
     font-family: cursive;
 
